@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/plotter/static/css/main.45dd001f.css",
-    "main.js": "/plotter/static/js/main.1c5f2f82.js",
-    "static/js/483.80714b9a.chunk.js": "/plotter/static/js/483.80714b9a.chunk.js",
+    "main.css": "/plotter/static/css/main.6cd60507.css",
+    "main.js": "/plotter/static/js/main.5c8a9c4f.js",
+    "static/js/483.e8065c35.chunk.js": "/plotter/static/js/483.e8065c35.chunk.js",
     "static/js/787.c567fffd.chunk.js": "/plotter/static/js/787.c567fffd.chunk.js",
     "index.html": "/plotter/index.html",
-    "main.45dd001f.css.map": "/plotter/static/css/main.45dd001f.css.map",
-    "main.1c5f2f82.js.map": "/plotter/static/js/main.1c5f2f82.js.map",
-    "483.80714b9a.chunk.js.map": "/plotter/static/js/483.80714b9a.chunk.js.map",
+    "main.6cd60507.css.map": "/plotter/static/css/main.6cd60507.css.map",
+    "main.5c8a9c4f.js.map": "/plotter/static/js/main.5c8a9c4f.js.map",
+    "483.e8065c35.chunk.js.map": "/plotter/static/js/483.e8065c35.chunk.js.map",
     "787.c567fffd.chunk.js.map": "/plotter/static/js/787.c567fffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45dd001f.css",
-    "static/js/main.1c5f2f82.js"
+    "static/css/main.6cd60507.css",
+    "static/js/main.5c8a9c4f.js"
   ]
 }
